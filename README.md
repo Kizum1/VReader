@@ -10,4 +10,4 @@ This is a project created using Roblox Studios. By using free ROBLOX assets for 
 
 Since we used Roblox Studios to develop our VR app, we were unable to use Git/GitHub to constantly commit our code. However ROBLOX Studios does have a script history that we have provided to prove that this project was created during the Metaverse Hackathon time frame. 
 
-All assets used were free and public resources. API was grabbed from https://www.gutenberg.org/ and most terrain assets were availible via the Roblox marketplace. Music is also provided for free by Roblox marketplace. 
+All assets used were free and public resources. API was grabbed from https://www.gutenberg.org/ and most terrain assets were availible via the Roblox marketplace. Music is also provided for free by https://create.roblox.com/marketplace/soundeffects
