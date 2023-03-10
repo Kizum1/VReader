@@ -1,12 +1,12 @@
 Project Developers:
 
-Konstantin Victoria (konstantinvictoria@gmail.com)​: Project Gutenberg API
+Konstantin Victoria: Project Gutenberg API
 
-Robin Simpson (srobinlee.teachmetw@gmail.com) ​: Bookshelf functionality with the API
+Robin Simpson: Bookshelf functionality with the API
 
-Jay Chong (jaychong1203@gmail.com) ​: Level design and linkage
+Jay Chong: Level design and linkage
 
-Lead Submitter: Jay Chong, 510-326-7214
+Lead Submitter: Jay Chong
 
 This is a project created using Roblox Studios. By using free ROBLOX assets for world building, and the Project Gutenberg API, we created a book reader in VR. You can read your book in VR, all the while enjoying the scenery of three different worlds. To get started, join the lobby world found under User Mitsukiyoi creations. (https://www.roblox.com/games/12716760929/). After you load in, head to the center then pick your desired world based on the the demo environment given. Then stand in the glowing circle and wait to be teleported. Once you are there, pick a book, pick a location, and start reading! If you want to change locations then head to a designated glowing circle or door to head back to the lobby where you can go to the next world.
 
