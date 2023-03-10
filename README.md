@@ -1,19 +1,15 @@
 Project Developers:
 
-Konstantin Victoria: Project Gutenberg API
+Konstantin Victoria (konstantinvictoria@gmail.com)​: Project Gutenberg API
 
-Robin Simpson: Bookshelf functionality with the API
+Robin Simpson (srobinlee.teachmetw@gmail.com) ​: Bookshelf functionality with the API
 
-Jay Chong: Level design and linkage
+Jay Chong (jaychong1203@gmail.com) ​: Level design and linkage
 
-NOTES TO JUDGES (IMPORTANT)
+Lead Submitter: Jay Chong, 510-326-7214
 
-Since we used Roblox Studios to develop our VR app, we were unable to use Git or GitHub to constantly commit our code. However, ROBLOX Studios does have a script history that we have provided to prove that this project was created during the Metaverse Hackathon time frame.
+This is a project created using Roblox Studios. By using free ROBLOX assets for world building, and the Project Gutenberg API, we created a book reader in VR. You can read your book in VR, all the while enjoying the scenery of three different worlds. To get started, join the lobby world found under User Mitsukiyoi creations. (https://www.roblox.com/games/12716760929/). After you load in, head to the center then pick your desired world based on the the demo environment given. Then stand in the glowing circle and wait to be teleported. Once you are there, pick a book, pick a location, and start reading! If you want to change locations then head to a designated glowing circle or door to head back to the lobby where you can go to the next world.
 
-All assets used were free and public resources. API was grabbed from https://www.gutenberg.org/, and most terrain assets were available via the Roblox marketplace. Music is also provided for free at https://create.roblox.com/marketplace/soundeffects. Game logo image was generated using stable diffusion AI
+Since we used Roblox Studios to develop our VR app, we were unable to use Git or GitHub to constantly commit our code. However, ROBLOX Studios does have a script history that we have provided to prove that this project was created during the Metaverse Hackathon time frame. 
 
-GitHub Page: https://github.com/Kizum1/VReader​
-
-ROBIN SIMPSON SCRIPT HISTORY:
-![image](https://user-images.githubusercontent.com/112515656/224263679-e707d812-6527-4418-9d34-03796502f78c.png)
-![image](https://user-images.githubusercontent.com/112515656/224263711-55b5ba9e-2056-4fdc-9e35-f7f83e513b19.png)
+All assets used were free and public resources. API was grabbed from https://www.gutenberg.org/, and most terrain assets were available via the Roblox marketplace. Music is also provided for free at https://create.roblox.com/marketplace/soundeffects. Game logo image was generated using stable diffusion AI​
